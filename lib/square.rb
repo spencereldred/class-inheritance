@@ -5,4 +5,8 @@ class Square
     @side = side
   end
 
+  def area
+    @side**2
+  end
+
 end
