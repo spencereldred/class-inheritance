@@ -9,4 +9,8 @@ class Square
     @side**2
   end
 
+  def perimeter
+    4*@side
+  end
+
 end
