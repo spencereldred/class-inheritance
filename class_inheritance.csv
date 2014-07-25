@@ -1,0 +1,19 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By
+75707628,create a rspec test for a Rectangle class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,"initialize a Rectangle with a length and a width
+create the first test: the rectangle object returns the length and the width",https://www.pivotaltracker.com/story/show/75707628,
+75707388,create a Rectangle class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,"initialize the length and the width
+pass the first rspec test",https://www.pivotaltracker.com/story/show/75707388,
+75708696,create a rspec test: rectangle can return it's area,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75708696,
+75708738,create an area method for the Rectangle class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75708738,
+75709130,create a rspec test: rectangle can return it's perimeter,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75709130,
+75709152,create a perimeter method for the Rectangle class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75709152,
+75709212,create a rspec test for a Square class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75709212,
+75709668,create a Square class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,"initialize a Square with a side
+create the first test: the square should return it's side",https://www.pivotaltracker.com/story/show/75709668,
+75709728,create a rspec test: square can return it's area,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75709728,
+75709750,create an area method for the Square class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75709750,
+75710166,create a rspec test: square can return it's perimeter,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75710166,
+75710332,create a perimeter method for the Square class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,1,unstarted,"Jul 25, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/75710332,
+75710762,Refactor: have the Square class inherit from the Rectangle class,"",1,"Jul 21, 2014","Aug 3, 2014",feature,2,unstarted,"Jul 25, 2014",,,Spencer Eldred,"delete the area method and the perimeter method in the Square class
+use the area method and perimeter method of the parent Rectangle class
+get the Square rspec tests to pass",https://www.pivotaltracker.com/story/show/75710762,
